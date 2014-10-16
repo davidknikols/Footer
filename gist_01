@@ -1,0 +1,90 @@
+      <!-- START OF FOOTER ORGANISM  -->
+
+
+
+
+
+<section id="footer-organism" class="add-padding bg-color3 border-top-color2">
+        
+            <div class="container">
+            
+                <ul class="social-links text-center">
+                    <li><a href="#link"><i class=" icon-facebook"></i></a></li>
+                    <li><a href="#link"><i class=" icon-instagram"></i></a></li>
+                    <li><a href="#link"><i class=" icon-twitter"></i></a></li>
+                    
+                </ul>
+               
+                <p style="font-size:10px;" class="text-center"> Skin Syndicate Studio © 2014 - ALL RIGHTS RESERVED</p>
+                <p style="font-size:8px;" class="text-center"><a href="https://davidknikols.com" target="_blank">EXCLUSIVE DAVID KNIKOLS</a></p>
+            
+            </div>
+            
+</section>
+
+
+YOU WILL NEED TO WIRE YOUR OWN ICONS WHICH UNDER ICONS YOU WILL FIND A STARTER GIST TO GET IT POPPING, REMEMBER
+YOU STILL HAVE TO WIRE THE ICON FONTS TO THE PROJECT
+
+/* CSS FOR THE ABOVE FOOTER================================
+===========================================================
+===========================================================
+*/
+
+
+/* ====================FOOTER ORGANISM SECTION */
+/* ====================FOOTER ORGANISM SECTION */
+/* ====================FOOTER ORGANISM SECTION */
+/* ====================FOOTER ORGANISM SECTION */
+
+
+
+#footer-organism{
+    padding-top:30px;
+    padding-bottom:0px;
+    background: #1f2c37;
+}
+
+.social-links {
+    list-style:none;
+    text-decoration: none;
+    margin:0;
+    padding:0;
+    margin-bottom:10px;
+}
+
+.social-links li{
+    display:inline-block;
+    margin:0 5px;
+    border-radius:3px;
+    box-shadow:0 4px 0 transparent;
+    -webkit-transition:all .3s ease-out;
+    transition:all .3s ease-out;
+    text-decoration: none;
+}
+
+.social-links li a {
+    display:block;
+    color:#fff;
+    color:rgba(255,255,255,0.3);
+    font-size:21px;
+    width:50px;
+    height:50px;
+    line-height:50px;
+    text-align:center;
+    background:rgba(0,0,0,0.2);
+    border-radius:50%;
+    -webkit-transition:all .3s ease-out;
+    transition:all .3s ease-out;
+    text-decoration: none;
+}
+
+.social-links li a:hover {
+    color:#fff;
+    background:#509B9E
+    text-decoration: none;
+}
+
+
+
+/*  FOOTER ORGANISM ENDS*/
